@@ -1,0 +1,13 @@
+.profile {
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    box-shadow: 0 0 2px 0px rgba(0,0,0,0.5);
+
+    .image-div {
+        margin-bottom: 1rem;
+    }
+}
